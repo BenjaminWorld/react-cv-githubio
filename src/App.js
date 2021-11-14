@@ -16,7 +16,7 @@ import{
 
 function App() {
   return (
-    <Router basename="react-cv-githubio">
+    <Router basename="today">
       <div className="App">
         <Navbar/>
         <Switch>
